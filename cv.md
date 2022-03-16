@@ -19,6 +19,8 @@ My goal is to become a full stack developer. My priorities are developing web ap
 - HTML5;
 - CSS3;
 - VScode;
+- Webstorm;
+- SQL (bacic);
 - JavaScript (basic)
 
 #### **_Code examples:_**
